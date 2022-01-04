@@ -1,0 +1,57 @@
+async-generator==1.10
+attrs==21.4.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.10.0
+bs4==0.0.1
+certifi==2021.10.8
+cffi==1.15.0
+charset-normalizer==2.0.9
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+configparser==5.2.0
+crayons==0.4.0
+cryptography==36.0.1
+debugpy @ file:///C:/ci/debugpy_1637073815078/work
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+entrypoints==0.3
+et-xmlfile==1.1.0
+h11==0.12.0
+idna==3.3
+ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1635944310712/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi @ file:///C:/ci/jedi_1611315808330/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1640335223713/work
+jupyter-core @ file:///C:/ci/jupyter_core_1636537213213/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+numpy==1.22.0
+openpyxl==3.0.9
+outcome==1.1.0
+pandas==1.3.5
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+pycparser==2.21
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyOpenSSL==21.0.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+pywin32==302
+pyzmq @ file:///C:/ci/pyzmq_1638435185959/work
+requests==2.27.0
+selenium==4.1.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio==1.2.0
+sortedcontainers==2.4.0
+soupsieve==2.3.1
+spyder-kernels @ file:///C:/ci/spyder-kernels_1606929474363/work
+tornado @ file:///C:/ci/tornado_1606942392901/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+trio==0.19.0
+trio-websocket==0.9.2
+urllib3==1.26.7
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webdriver-manager==3.5.2
+wincertstore==0.2
+wsproto==1.0.0
